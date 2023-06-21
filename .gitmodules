@@ -1,0 +1,6 @@
+[submodule "DocSphereApi"]
+	path = DocSphereApi
+	url = https://github.com/DevOpRohan/DocSphereApi
+[submodule "DocSphereUi"]
+	path = DocSphereUi
+	url = https://github.com/DevOpRohan/DocSphereUi
