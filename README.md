@@ -28,3 +28,9 @@ To get a local copy up and running, follow these simple steps.
 
 1. Visit the main branch of each submodule (DocSphereApi and DocSphereUi).
 2. Clone each submodule to your local machine.
+
+## Contact
+
+Your Name - [rohanvermadev@gmail.com](mailto:rohanvermadev@gmail.com)
+
+Project Link: [https://github.com/DevOpRohan/Vision](https://github.com/DevOpRohan/Vision)
