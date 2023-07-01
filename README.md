@@ -5,6 +5,8 @@ DocSphere is a user-friendly conversational AI that allows users to interact wit
 The UI is designed like a chat, where the user can ask questions and the bot will provide answers along with references (document name, page number). DocSphere supports a wide range of document types and languages, including handwritten documents.
 
 ## Live Web App
+- Just Ask about my projects, or upload a doc/book and document and ask about that.
+Note: Default user is user1.
 
 - [DocSphere](https://docsphere.netlify.app/)
 
