@@ -4,6 +4,11 @@ DocSphere is a user-friendly conversational AI that allows users to interact wit
 
 The UI is designed like a chat, where the user can ask questions and the bot will provide answers along with references (document name, page number). DocSphere supports a wide range of document types and languages, including handwritten documents.
 
+## Live Web App
+
+- [DocSphere](https://docsphere.netlify.app/)
+
+
 ## Submodules
 
 1. **DocSphereApi (Python)**: This is the backend of the DocSphere system, responsible for processing and responding to user queries.
@@ -17,10 +22,7 @@ The UI is designed like a chat, where the user can ask questions and the bot wil
 - Python & FastAPI
 - React.js
 
-## Demo and Documentation
 
-- [Demo](<insert demo link here>)
-- [Project Repo](<insert project repo link here>)
 
 ## Getting Started
 
